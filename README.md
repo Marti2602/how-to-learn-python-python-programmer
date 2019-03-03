@@ -32,5 +32,7 @@ Source: [How to Learn Python - Best Courses, Best Websites, Best YouTube Channel
 
 ## YOUTUBE CHANNELS
 [Sirar Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists)
+
 [MIT Python Course (Introduction to Computer Science and Programming)](https://www.youtube.com/watch?v=k6U-i4gXkLM)
+
 [Python Training - Complete Python Training Course](https://www.youtube.com/playlist?list=PLtb2Lf-cJ_AWhtJE6Rb5oWf02RC2qVU-J)
